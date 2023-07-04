@@ -3,6 +3,12 @@
 <head>
     <title>Pandas Data Science Tasks</title>
     <style>
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+        }
         h1 {
             text-align: center;
         }
@@ -12,11 +18,7 @@
     </style>
 </head>
 <body>
-
-  <img src="[https://www.google.com/search?sxsrf=AB5stBiLZOVfdLKBWniiVHVuYcDIkxR64g:1688470507187&q=sale+analysis+using+jupyter+notebook&tbm=isch&sa=X&ved=2ahUKEwi7qa3m-vT_AhWPPOwKHQn0Ai4Q0pQJegQIURAB&biw=1536&bih=746&dpr=1.25#imgrc=9uAnwCbmIbbXcM" alt="Sale Analysis](https://github.com/wajidturi50/Sales-Analysis/blob/main/screen_shot_2019-12-06_at_2_33_23_pm.png)">
-    <h1>Pandas-Data-Science-Tasks</h1>
-    <p>Set of real world data science tasks completed using the Python Pandas library.</p>
-    <!-- Rest of the HTML content -->
+    <img src="https://github.com/wajidturi50/Sales-Analysis/blob/main/screen_shot_2019-12-06_at_2_33_23_pm.png" alt="Sales Analysis">
     <h1>Pandas-Data-Science-Tasks</h1>
     <p>Set of real world data science tasks completed using the Python Pandas library.</p>
     <h2>Data Cleaning Tasks</h2>
