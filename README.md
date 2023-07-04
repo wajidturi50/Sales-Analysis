@@ -1,21 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pandas Data Science Tasks</title>
-    <style>
-        img {
-            display: block;
-            margin: 0 auto;
-            max-width: 100%;
-            height: auto;
-        }
-        h1 {
-            text-align: center;
-        }
-        ul {
-            margin-left: 20px;
-        }
-    </style>
+   
 </head>
 <body>
     <img src="https://github.com/wajidturi50/Sales-Analysis/blob/main/screen_shot_2019-12-06_at_2_33_23_pm.png" alt="Sales Analysis">
