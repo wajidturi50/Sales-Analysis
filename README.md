@@ -5,7 +5,7 @@
 </head>
 <body>
     <img src="https://github.com/wajidturi50/Sales-Analysis/blob/main/screen_shot_2019-12-06_at_2_33_23_pm.png" alt="Sales Analysis">
-    <h1>Pandas-Data-Science-Tasks</h1>
+    <h1>Pandas-Data-Science-Project-For-Al Janat Mall</h1>
     <p>Set of real world data science tasks completed using the Python Pandas library.</p>
     <h2>Data Cleaning Tasks</h2>
     <ul>
